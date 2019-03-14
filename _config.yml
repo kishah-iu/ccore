@@ -27,8 +27,8 @@ url: "https://ccore.iu.edu" # the base hostname & protocol for your site, e.g. h
 markdown: kramdown
 kramdown:
   parse_block_html: true
-remote_theme: indiana-university/rivet-jekyll-theme
-theme: rivet-jekyll-theme
+#remote_theme: indiana-university/rivet-jekyll-theme
+theme: indiana-university/rivet-jekyll-theme
 plugins:
   - jekyll-feed
 #  - jekyll-sitemap ?
