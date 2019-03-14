@@ -28,7 +28,7 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
 #remote_theme: indiana-university/rivet-jekyll-theme
-theme: indiana-university/rivet-jekyll-theme
+theme: rivet-jekyll-theme
 plugins:
   - jekyll-feed
 #  - jekyll-sitemap ?
